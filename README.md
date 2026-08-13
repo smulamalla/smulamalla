@@ -4,7 +4,7 @@
 
 My name is Sohan, and I am a software engineer passionate about applying artificial intelligence to healthcare. I graduated from the University of Chicago with a B.S. in Computer Science, specializing in Machine Learning, along with a minor in Biological Sciences while completing the pre-med track. My background in both machine learning and the biological sciences has given me a strong interdisciplinary foundation for developing AI solutions to complex healthcare challenges.
 
-I am particularly interested in building intelligent systems that improve clinical decision-making, biomedical research, and patient care. To further develop expertise at the intersection of AI and healthcare, I have designed and built multiple projects focused on real-world medical applications, including retrieval-augmented generation (RAG), clinical decision support, and other machine learning–driven healthcare systems. You can check out my work through my personal portfolio website!
+I am particularly interested in building intelligent systems that improve clinical decision-making, biomedical research, and patient care. To further develop expertise at the intersection of AI and healthcare, I have designed and built multiple projects focused on real-world medical applications, including retrieval-augmented generation (RAG), clinical decision support, and other machine learning–driven healthcare systems. You can check out my work through my personal portfolio website or the direct project links below!
 
 <h2>My Personal Portfolio:</h2>
 
