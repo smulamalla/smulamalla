@@ -19,6 +19,10 @@
   - Built an evidence-based diabetes guidance assistant using Retrieval-Augmented Generation (RAG) that answers questions exclusively from ADA, CDC, and NICE clinical guidelines.
   - Engineered a retrieval pipeline featuring conversation-aware question rewriting, Maximal Marginal Relevance (MMR), similarity score filtering, and scope validation to improve retrieval quality and reduce hallucinations.
   - Developed a polished Streamlit application with transparent source citations, medication extraction, persistent chat history, transcript export, and a custom clinical-inspired user interface.
+- <b>🩺 [CardioLens AI](https://github.com/smulamalla/cardiolens-ai)</b>:
+  - Built an explainable heart disease risk prediction platform that compares five machine learning models and grounds every prediction in SHAP-based explanations traceable to individual clinical factors.
+  - Engineered a preprocessing and explainability pipeline featuring one-hot encoded features, a model-agnostic SHAP explainer compatible across five models, and empirical validation that uncovered and corrected an inverted dataset label.
+  - Developed a polished Streamlit application with live model comparison, an interactive hypothetical risk simulator, low-confidence factor flagging, Docker containerization, and a custom cardiac-inspired user interface.
 - <b>📊 [CDC-Data AI Analysis of Weight Correlation](https://github.com/smulamalla/WeightCorrelationAI)</b>:
   - A data-driven project analyzing obesity-related factors using CDC BRFSS data through AI.
 
