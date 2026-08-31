@@ -8,7 +8,7 @@
 
 <h2>My Personal Portfolio:</h2>
 
-- <b>📂 [Portfolio Website](https://smulamalla.github.io/)</b>:
+- <b>📂 [Portfolio Website](https://smulamalla.github.io/)</b> ([GitHub Repo](https://github.com/smulamalla/smulamalla.github.io)):
   - A personal website showcasing my AI/ML projects, technical skills, and software engineering experience.
   - Provides direct links to each project's live demo and GitHub repository for exploring the applications and source code.
   - Features technical progress blogs documenting project development, engineering decisions, challenges, and lessons learned.
